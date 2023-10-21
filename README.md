@@ -1,1 +1,1 @@
-view my site-- (yesho-netflixclone.netlify.app)
+view my site-- [yesho-netflixclone.netlify.app]
